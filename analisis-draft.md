@@ -34,8 +34,9 @@ El analisis de esta informacion aporta a las empresas ventajas en el conocimient
 
 ## Kafka
 
-
+Es una platadorma "distributed streaming" capaz de manejar millones de eventos al dia. Fue concebida iicalmente como una cola de mensajeria, se basa en la abstraccion de un registro de confirmación distribuido. Desde su creación e inaguración por linkedIn ha evolucionado rapidamente a una plataforma de transmisión completa. 
 
 
 ## Referencias
 
+What is Apache Kafka®? https://www.confluent.io/what-is-apache-kafka/
