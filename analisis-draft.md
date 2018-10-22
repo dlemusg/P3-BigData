@@ -1,4 +1,4 @@
-# PROYECTO 3 BIGDATA
+# PROYECTO 3 - BIGDATA
 ## Curso ST0263 Tópicos Especiales en Telematica
 ## Universidad EAFIT
 ## 2018-2
@@ -7,4 +7,26 @@
 * David Felipe Lemus Giraldo
 * Juan Camilo Rodriguez Montoya
 
+## Problema seleccionado ##
+
+Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
+
+## Streaming Data 
+
+La definicion mas acertada Streaming Data para nostros es la de amazon AWS:
+
+ "Los datos de streaming son datos que se generan constantemente a partir de miles de fuentes de datos, que normalmente envían los registros de datos simultáneamente en conjuntos de tamaño pequeño (varios kilobytes). Los datos de streaming incluyen diversos tipos de datos, como archivos de registros generados por los clientes que utilizan sus aplicaciones móviles o web, compras electrónicas, actividades de los jugadores en un juego, información de redes sociales, operaciones bursátiles o servicios geoespaciales, así como telemetría de dispositivos conectados o instrumentación en centros de datos." 
+
+
+
+
+
+
+
+## Kafka
+
+
+
+
+## Referencias
 
