@@ -40,3 +40,4 @@ Es una platadorma "distributed streaming" capaz de manejar millones de eventos a
 ## Referencias
 
 What is Apache Kafka®? https://www.confluent.io/what-is-apache-kafka/
+¿Qué son los datos de streaming? https://aws.amazon.com/es/streaming-data/
