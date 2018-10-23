@@ -7,6 +7,20 @@
 * David Felipe Lemus Giraldo
 * Juan Camilo Rodriguez Montoya
 
-## Problema seleccionado ##
+## a. Problema a resolver ##
 
 Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
+
+## b. Arquitectura preliminar de datos ##
+
+## c. Fuentes y naturaleza de los datos + tecnologías a utilizar ##
+
+## d. Sistema de ingesta de datos + tecnologías a utilizar ##
+
+
+## e. Almacenamiento de los datos + tecnologías a utilizar ##
+
+## f. Análisis de datos + tecnologías a utilizar ##
+
+
+
