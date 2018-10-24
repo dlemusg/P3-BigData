@@ -43,6 +43,7 @@ https://www.ibm.com/blogs/bluemix/2016/04/analyzing-twitter-trends-real-time-wit
 * Twitter Sentiment Analysis with Apache Kafka and Spark Streaming presentation and demo
 https://www.youtube.com/watch?v=-ZRDVfCZ7uY
 
-* Ingestión de datos con Spark y Kafka http://spaceanalytics.blogspot.com/2018/04/ingest-spark-kafka.html
+* Ingestión de datos con Spark y Kafka 
+http://spaceanalytics.blogspot.com/2018/04/ingest-spark-kafka.html
 
 
