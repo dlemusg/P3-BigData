@@ -22,7 +22,11 @@ La naturaleza de los datos es de indole cualitativa ya que estaremos analizando 
 
 Para la ingesta de datos se utilizar *Kafka*, esta es usada para construir canales de datos en tiempo real y aplicaciones de transmisión ademas que es escalable y tolerante a fallos.
 
+Ademas se utilizará *Spark Streming* el cual es un componente que permite la transmisión envivo de datos
+
 ## e. Almacenamiento de los datos + tecnologías a utilizar ##
+
+En este caso se utlizara *RDD* para la representación de los datos haciendo uso de *Spark*
 
 ## f. Análisis de datos + tecnologías a utilizar ##
 
@@ -30,10 +34,14 @@ En analisis de datos se hara a partir de *Apache Spark*, este un procesador de c
 
 
 
-Referencias
+## Referencias ##
 
-Analyzing Twitter trends in real time with Apache Kafka and microservices
+* Analyzing Twitter trends in real time with Apache Kafka and microservices
 https://www.ibm.com/blogs/bluemix/2016/04/analyzing-twitter-trends-real-time-with-kafka-and-microservices/
 
-Twitter Sentiment Analysis with Apache Kafka and Spark Streaming presentation and demo
+* Twitter Sentiment Analysis with Apache Kafka and Spark Streaming presentation and demo
 https://www.youtube.com/watch?v=-ZRDVfCZ7uY
+
+* Ingestión de datos con Spark y Kafka http://spaceanalytics.blogspot.com/2018/04/ingest-spark-kafka.html
+
+
