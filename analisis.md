@@ -9,11 +9,13 @@
 
 ## a. Problema a resolver ##
 
-Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utilizando una de las siguientes tecnologías: Kafka, Storm, Flink o Flume.
+Un sentimineto se expone a partir de un sentir, de una emoción, una opinion o de las actitudes que se expresen en el momento, es por esto que el problema a resolver será la identificación y categonización de los sentimientos expresados de los usuarios de twitter a partir de los tweets y comentarios que estos realizan.
 
 ## b. Arquitectura preliminar de datos ##
 
 ## c. Fuentes y naturaleza de los datos + tecnologías a utilizar ##
+
+La fuente de datos sera Twitter y la tecnologia a utilizar sera Twitter Streaming API 
 
 ## d. Sistema de ingesta de datos + tecnologías a utilizar ##
 
@@ -24,3 +26,10 @@ Realizar una prueba de concepto o demo sobre Data Streaming desde Twitter utiliz
 
 
 
+Referencias
+
+Analyzing Twitter trends in real time with Apache Kafka and microservices
+https://www.ibm.com/blogs/bluemix/2016/04/analyzing-twitter-trends-real-time-with-kafka-and-microservices/
+
+Twitter Sentiment Analysis with Apache Kafka and Spark Streaming presentation and demo
+https://www.youtube.com/watch?v=-ZRDVfCZ7uY
