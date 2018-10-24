@@ -9,20 +9,24 @@
 
 ## a. Problema a resolver ##
 
-Un sentimineto se expone a partir de un sentir, de una emoción, una opinion o de las actitudes que se expresen en el momento, es por esto que el problema a resolver será la identificación y categonización de los sentimientos expresados de los usuarios de twitter a partir de los tweets y comentarios que estos realizan.
+Un sentimineto se expone a partir de un sentir, de una emoción, una opinion o de las actitudes que se expresen en el momento, es por esto que el problema a resolver será la identificación y categorización de los sentimientos expresados de los usuarios de twitter a partir de los tweets y comentarios que estos realizan.
 
 ## b. Arquitectura preliminar de datos ##
 
 ## c. Fuentes y naturaleza de los datos + tecnologías a utilizar ##
 
-La fuente de datos sera Twitter y la tecnologia a utilizar sera Twitter Streaming API 
+La fuente de datos sera *Twitter* y la tecnologia a utilizar sera *Twitter Streaming API*.
+La naturaleza de los datos es de indole cualitativa ya que estaremos analizando sentimientos y estos son considerados cualidades o actitudes donde es imposible darle una medida, pero podemos hablar de una naturaleza cuantitativa al contar cuantas veces se es expresado o mencionado en twitter en un momento espeficifico
 
 ## d. Sistema de ingesta de datos + tecnologías a utilizar ##
 
+Para la ingesta de datos se utilizar *Kafka*, esta es usada para construir canales de datos en tiempo real y aplicaciones de transmisión ademas que es escalable y tolerante a fallos.
 
 ## e. Almacenamiento de los datos + tecnologías a utilizar ##
 
 ## f. Análisis de datos + tecnologías a utilizar ##
+
+En analisis de datos se hara a partir de *Apache Spark*, este un procesador de codigo abierto basado en la velocidad, facilidad y en el analisis para grandes cantidades de datos, el principal motivo de usar esta tecnologia se debe a qeu spark permite y esta diseñado pra realizar calculos iterativos y para visulizar de forma interactiva.
 
 
 
