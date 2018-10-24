@@ -12,7 +12,7 @@
 Un sentimineto se expone a partir de un sentir, de una emoción, una opinion o de las actitudes que se expresen en el momento, es por esto que el problema a resolver será la identificación y categorización de los sentimientos expresados de los usuarios de twitter a partir de los tweets y comentarios que estos realizan.
 
 ## b. Arquitectura preliminar de datos ##
-![GitHub Logo](/arquictura.png)
+![GitHub arquitectura](arquitectura.jpg)
 
 ## c. Fuentes y naturaleza de los datos + tecnologías a utilizar ##
 
