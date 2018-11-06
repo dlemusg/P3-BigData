@@ -32,12 +32,11 @@ El analisis de esta informacion aporta a las empresas ventajas en el conocimient
 * Empresa de juegos en linea recopila datos de las interacciones de los jugadores con este. Posterior, analiza los datos en tiempo real, ofrece incentivos y experiencias dinamicas que involucren jugadores. 
 
 
-## Kafka
+## Flume
 
-Es una platadorma "distributed streaming" capaz de manejar millones de eventos al dia. Fue concebida iicalmente como una cola de mensajeria, se basa en la abstraccion de un registro de confirmación distribuido. Desde su creación e inaguración por linkedIn ha evolucionado rapidamente a una plataforma de transmisión completa. 
-
+"Flume es un servicio distribuido, confiable y disponible para recopilar, agregar y mover de manera eficiente grandes cantidades de datos de registro. Tiene una arquitectura simple y flexible basada en flujos de datos de transmisión. Es robusto y tolerante a fallas con mecanismos de confiabilidad sintonizables y muchos mecanismos de recuperación y recuperación de fallas."
 
 ## Referencias
 
-* What is Apache Kafka®? https://www.confluent.io/what-is-apache-kafka/
+* What is Apache Kafka®? https://flume.apache.org/
 * ¿Qué son los datos de streaming? https://aws.amazon.com/es/streaming-data/
