@@ -9,7 +9,15 @@
 
 ## a. Problema a resolver ##
 
-Un sentimineto se expone a partir de un sentir, de una emoción, una opinion o de las actitudes que se expresen en el momento, es por esto que el problema a resolver será la identificación y categorización de los sentimientos expresados de los usuarios de twitter a partir de los tweets y comentarios que estos realizan.
+Tanto instragram como snapchat son redes sociales y aplicaciones moviles, la primera fue lanzada en el 2010 y la segunda en el 2011.
+En lo corrido de los dos ultimos años estas han presentando una rivalidad fuerte debido al lanzamiento de instagram storis lo que ha ocasionado que snapchat vea peligrar su crecimiento.
+Desde las funcionalidades, las dos presentan similitudes, probablemente instagram pudo haber adaptado algunas de las caracteristicas de snapchat en su app, a la fecha instagram cuenta con mas de 200 millones de usuarios frente a snapchat que cuenta con 160 millones, se preveé que las estadisticas de instagram seguin mejorando a comparación de snapchat.
+
+Con el uso cotidiano de las rede sociales como medio para compartir momentos ya sean personales, empresariales, sociales, entre otros, los usuarios siempre tienden a tener una cuenta preferida ya sea por su usabilidad, numero de amigos, funcionalidades, etc. Esto hace que de forma publica se hagan comentarios acerca de la app de su preferencia o de mayor disgusto de forma publica, es asi como el objetivo de este demo es realiar un breve analisis sobre cual es la aplicacion de preferencia a partir de las opiniones y sentimientos expresados en twitter acerca de estas.
+
+Por que sentimientos?
+
+Un sentimiento es la manifestacion de una emoción, una opinion o de las actitudes que se expresen en el momento respecto a algo, es por esto que el problema a resolver será la identificación y categorización de los sentimientos expresados de los usuarios de twitter a partir de los tweets y comentarios que estos realizan.
 
 ## b. Arquitectura preliminar de datos ##
 ![GitHub arquitectura](arquitectura.jpg)
@@ -21,7 +29,7 @@ La naturaleza de los datos es de indole cualitativa ya que estaremos analizando 
 
 ## d. Sistema de ingesta de datos + tecnologías a utilizar ##
 
-Para la ingesta de datos se utilizar *Kafka*, esta es usada para construir canales de datos en tiempo real y aplicaciones de transmisión ademas que es escalable y tolerante a fallos.
+Para la ingesta de datos se utilizar *Flume*, esta es usada para construir canales de datos en tiempo real y aplicaciones de transmisión ademas que es escalable y tolerante a fallos.
 
 Ademas se utilizará *Spark Streming* el cual es un componente que permite la transmisión envivo de datos
 
